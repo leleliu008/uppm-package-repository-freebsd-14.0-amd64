@@ -1,0 +1,5 @@
+summary: flock(1) locks files
+webpage: https://github.com/discoteq/flock
+version: 0.4.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/flock-0.4.0-freebsd-14.0-amd64.release.tar.xz 
+bin-sha: b344ca1ed2f9acc45da5a067bd16f08798fea601628800ab3a475df88bada848

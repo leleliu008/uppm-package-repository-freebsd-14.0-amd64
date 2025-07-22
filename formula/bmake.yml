@@ -1,0 +1,5 @@
+summary: Portable version of NetBSD make(1)
+webpage: https://www.crufty.net/help/sjg/bmake.html
+version: 20250308 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/bmake-20250308-freebsd-14.0-amd64.release.tar.xz 
+bin-sha: b2414cccf083bb666b1659e7473ce69b213cdc45a3e38cfbde919cbd2ee14b9d

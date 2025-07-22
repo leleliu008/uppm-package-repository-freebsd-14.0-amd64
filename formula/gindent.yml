@@ -1,0 +1,5 @@
+summary: C code prettifier
+webpage: https://www.gnu.org/software/indent/
+version: 2.2.13 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/gindent-2.2.13-freebsd-14.0-amd64.release.tar.xz 
+bin-sha: 02564e0b15a9c8c388a568a2c2d897bed0556056fde943c668f1ae91a0dbbfb7

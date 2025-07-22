@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/gtar-1.35-freebsd-14.0-amd64.release.tar.xz 
+bin-sha: 07196c17d3a351568f0b13976f0caee6c755526d534689ae6535b1760bea02f3

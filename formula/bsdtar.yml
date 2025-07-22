@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.8.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/bsdtar-3.8.1-freebsd-14.0-amd64.release.tar.xz 
+bin-sha: 1430a2c1ad13ae7e36d82a1a5748b5bf606517514b3539f7e8193d96c3268711
