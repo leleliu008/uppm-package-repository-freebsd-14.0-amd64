@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 2.3.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2025.07.22/pkgconf-2.3.0-freebsd-14.0-amd64.release.tar.xz 
-bin-sha: 7028f78915ab894105ee42af30654f3545e052473bf8b1ae5010553f9a4512e6
+version: 2.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64/releases/download/2026.11.27/pkgconf-2.5.1-freebsd-14.0-amd64.release.tar.xz
+bin-sha: 684b993b6eced84815e21afbf6f1552f35d798ebcf747208f15d532472bb1e4b
